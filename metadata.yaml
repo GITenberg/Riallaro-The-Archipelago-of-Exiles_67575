@@ -1,5 +1,8 @@
 _repo: Riallaro-The-Archipelago-of-Exiles_67575
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67575-h/images/cover.jpg
 creator:
   author:
     agent_name: Sweven, Godfrey
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54138
     wikipedia: https://en.wikipedia.org/wiki/John_Macmillan_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67575#Riallaro-The-Archipelago-of-Exiles
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67575'
